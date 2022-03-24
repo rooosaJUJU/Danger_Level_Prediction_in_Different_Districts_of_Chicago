@@ -32,3 +32,6 @@ Chicago Data Portal (https://data.cityofchicago.org/Public-Safety/Crimes-2001-to
 
 ## Report
 The report can be found [here](https://github.com/rooosaJUJU/Crimes_in_different_districts_of_Chicago/blob/main/Crimes_in_different_districts_of_Chicago_Report.pdf).
+
+## Questions?
+Please feel free to contact us via email should you have any questions or would like to contribute.
