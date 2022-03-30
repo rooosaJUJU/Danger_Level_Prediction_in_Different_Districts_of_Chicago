@@ -4,7 +4,7 @@ Explore the characteristics of crimes in Chicago, including time, location, seve
 ## Contributors
 * [Rosa Zhu](https://github.com/rooosaJUJU) (jingyi.zhu@wustl.edu)
 * [Sylvia Zhang](https://github.com/Sylviaaa77) (xiaowen.z@wustl.edu)
-* [Vivian Zhang](https://github.com/vivianz3243) ()
+* [Vivian Zhang](https://github.com/vivianz3243) (yueheng.zhong@wustl.edu)
 * [Xinya Zhang](https://github.com/XinyaZZZ) (xinya.z@wustl.edu)
 
 ## Abstract
