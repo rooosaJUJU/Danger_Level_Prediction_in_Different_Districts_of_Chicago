@@ -30,7 +30,7 @@ Chicago Data Portal (https://data.cityofchicago.org/Public-Safety/Crimes-2001-to
 * DataWrapper
 
 ## Methods
-* Second Exponential Smoothing Method
+* Double Exponential Smoothing Method
 
 ## Report
 The report can be found [here](https://github.com/rooosaJUJU/Crimes_in_different_districts_of_Chicago/blob/main/Crimes_in_different_districts_of_Chicago_Report.pdf).
