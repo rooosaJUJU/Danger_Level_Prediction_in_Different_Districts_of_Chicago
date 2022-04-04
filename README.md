@@ -1,4 +1,4 @@
-# Danger_Level_Prediction_in_Different_Districts_of_Chicago
+# Danger Level Prediction in Different Districts of Chicago
 Explore the characteristics of crimes in Chicago, including time, location, severity, and potentially predict trends of future crimes and come up with plans for Chicago police and residents, to help improve public safety in Chicago.
 
 ## Contributors
