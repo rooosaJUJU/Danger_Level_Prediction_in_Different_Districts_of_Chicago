@@ -1,0 +1,14 @@
+#!/usr/bin/env python
+import sys
+
+for line in sys.stdin:
+  line = line.strip()
+  words = line.split("\t")
+  year = words[0]
+  dis = words[1]
+  des = words[2]
+  
+  if year == "2020":
+    des = des.replace(" ", "~")
+    
+  print ('%s' %des)
