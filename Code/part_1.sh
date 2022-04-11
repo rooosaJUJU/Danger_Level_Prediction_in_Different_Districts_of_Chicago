@@ -8,6 +8,7 @@ chmod +x crime_mapper.py
 chmod +x crime_reducer.py
 
 nano crime_bash.sh
+hdfs dfs -cat crime_output/part-00000 | sort -k2 -rn | head -20
 
 # Code for wordclouds
 nano word_map.py
